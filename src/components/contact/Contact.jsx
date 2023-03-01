@@ -10,7 +10,7 @@ const Contact = () => {
       <section className='contacts padding'>
         <div className='container shadow flexSB'>
           <div className='left row'>
-            <iframe src={map}></iframe>
+            <iframe title="map"src={map} height="300" width="400" name="foto"></iframe>
           </div>
           <div className='right row'>
             <h1>Contactanos</h1>
